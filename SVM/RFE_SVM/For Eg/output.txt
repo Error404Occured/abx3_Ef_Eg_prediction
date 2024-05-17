@@ -1,0 +1,32 @@
+Worst column Ef
+RFE RMSE CV 1.48
+Worst column prop
+RFE RMSE CV 1.44
+Worst column ea_std
+RFE RMSE CV 1.43
+Worst column gtf
+RFE RMSE CV 1.42
+Worst column x_std
+RFE RMSE CV 1.41
+Worst column ie_std
+RFE RMSE CV 1.40
+Worst column vol
+RFE RMSE CV 1.39
+Worst column cs1
+RFE RMSE CV 1.38
+Worst column spec_heat_std
+RFE RMSE CV 1.37
+Worst column of
+RFE RMSE CV 1.37
+Worst column ie_mean
+RFE RMSE CV 1.36
+Worst column grp_std
+RFE RMSE CV 1.35
+Worst column row_std
+RFE RMSE CV 1.35
+Worst column atom_mass_mean
+RFE RMSE CV 1.35
+Worst column z_mean
+RFE RMSE CV 1.34
+Worst column grp_mean
+RFE RMSE CV 1.34

@@ -1,0 +1,44 @@
+Worst column rho_std
+RFE RMSE CV 1.15
+Worst column rho_mean
+RFE RMSE CV 1.14
+Worst column val_mean
+RFE RMSE CV 1.13
+Worst column mol_vol_std
+RFE RMSE CV 1.12
+Worst column ea_mean
+RFE RMSE CV 1.11
+Worst column bp_std
+RFE RMSE CV 1.11
+Worst column x_mean
+RFE RMSE CV 1.10
+Worst column x_std
+RFE RMSE CV 1.09
+Worst column cal_atom_rad_mean
+RFE RMSE CV 1.09
+Worst column z_mean
+RFE RMSE CV 1.08
+Worst column z_std
+RFE RMSE CV 1.08
+Worst column p_mean
+RFE RMSE CV 1.07
+Worst column vdw_mean
+RFE RMSE CV 1.07
+Worst column k_mean
+RFE RMSE CV 1.06
+Worst column k_std
+RFE RMSE CV 1.03
+Worst column ea_std
+RFE RMSE CV 1.02
+Worst column atom_mass_std
+RFE RMSE CV 1.01
+Worst column atom_mass_mean
+RFE RMSE CV 1.00
+Worst column heat_fus_mean
+RFE RMSE CV 1.00
+Worst column mp_mean
+RFE RMSE CV 1.00
+Worst column heat_vap_mean
+RFE RMSE CV 0.99
+Worst column gtf
+RFE RMSE CV 0.99
