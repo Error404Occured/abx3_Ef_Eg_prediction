@@ -1,0 +1,26 @@
+Worst column heat_fus_std
+RFE RMSE CV 7.75
+Worst column mol_vol_mean
+RFE RMSE CV 7.15
+Worst column spec_heat_std
+RFE RMSE CV 6.50
+Worst column of
+RFE RMSE CV 5.96
+Worst column cov_rad_std
+RFE RMSE CV 5.58
+Worst column val_mean
+RFE RMSE CV 5.22
+Worst column grp_std
+RFE RMSE CV 5.07
+Worst column vdw_std
+RFE RMSE CV 4.91
+Worst column p_mean
+RFE RMSE CV 4.86
+Worst column atom_rad_std
+RFE RMSE CV 4.84
+Worst column prop
+RFE RMSE CV 4.84
+Worst column row_std
+RFE RMSE CV 4.83
+Worst column mp_mean
+RFE RMSE CV 4.83
